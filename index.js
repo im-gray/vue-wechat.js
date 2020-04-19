@@ -5,4 +5,4 @@
  * @modifier : Emil Zhai (root@derzh.com)
  * @copyright: Copyright (c) 2018 EM, Z.
  */
-module.exports = require('./1.5.0.js');
+module.exports = require('./1.6.0.js');
